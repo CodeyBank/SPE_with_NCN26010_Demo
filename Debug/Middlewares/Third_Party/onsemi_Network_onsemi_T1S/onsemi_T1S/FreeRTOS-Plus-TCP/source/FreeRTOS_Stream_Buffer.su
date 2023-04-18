@@ -1,0 +1,8 @@
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/include/FreeRTOS_IP.h:247:36:FreeRTOS_min_uint32	16	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/include/FreeRTOS_Stream_Buffer.h:72:30:uxStreamBufferSpace	32	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/include/FreeRTOS_Stream_Buffer.h:93:30:uxStreamBufferDistance	32	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/include/FreeRTOS_Stream_Buffer.h:112:30:uxStreamBufferGetSpace	24	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/include/FreeRTOS_Stream_Buffer.h:138:30:uxStreamBufferGetSize	24	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/include/FreeRTOS_Stream_Buffer.h:186:34:xStreamBufferLessThenEqual	32	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_Stream_Buffer.c:58:8:uxStreamBufferAdd	40	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_Stream_Buffer.c:153:8:uxStreamBufferGet	40	static

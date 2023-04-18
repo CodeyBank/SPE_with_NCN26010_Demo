@@ -1,0 +1,5 @@
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/Source/T1S_FreeRTOS_OS.c:20:10:OS_Init	16	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/Source/T1S_FreeRTOS_OS.c:38:6:OS_Start	8	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/Source/T1S_FreeRTOS_OS.c:43:10:OS_WaitUntilISR	24	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/Source/T1S_FreeRTOS_OS.c:63:6:OS_Callback	24	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/Source/T1S_FreeRTOS_OS.c:78:10:OS_SetDataReadyCallback	16	static

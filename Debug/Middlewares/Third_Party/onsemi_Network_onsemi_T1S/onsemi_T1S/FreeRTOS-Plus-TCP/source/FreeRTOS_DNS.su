@@ -1,0 +1,14 @@
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/include/FreeRTOS_Sockets.h:222:34:xSocketValid	24	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/include/FreeRTOS_IP_Private.h:895:32:usChar2u16	16	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_DNS.c:262:23:vCastPointerTo_DNSMessage_t	16	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_DNS.c:272:23:vCastConstPointerTo_DNSMessage_t	16	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_DNS.c:295:23:vCastPointerTo_DNSTail_t	16	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_DNS.c:317:23:vCastPointerTo_DNSAnswerRecord_t	16	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_DNS.c:627:18:FreeRTOS_gethostbyname	16	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_DNS.c:677:25:prvPrepareLookup	40	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_DNS.c:798:21:prvGetHostByName	96	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_DNS.c:974:20:prvCreateDNSMessage	56	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_DNS.c:1185:20:prvSkipNameField	32	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_DNS.c:1264:14:ulDNSHandlePacket	24	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_DNS.c:1331:22:prvParseDNSReply	96	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_DNS.c:1887:21:prvCreateDNSSocket	24	static

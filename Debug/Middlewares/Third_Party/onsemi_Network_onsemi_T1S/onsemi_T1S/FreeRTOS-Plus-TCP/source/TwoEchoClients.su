@@ -1,0 +1,3 @@
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/TwoEchoClients.c:44:5:_write	24	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/TwoEchoClients.c:62:6:vTaskCreateUDPServer	24	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/TwoEchoClients.c:76:13:prvEchoClientTask	128	static,ignoring_inline_asm

@@ -1,0 +1,7 @@
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/Source/T1S_STM32_Hardware.c:32:10:SPI_Init	24	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/Source/T1S_STM32_Hardware.c:143:10:SPI_Transfer	40	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/Source/T1S_STM32_Hardware.c:207:10:SetDataReadyISR	48	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/Source/T1S_STM32_Hardware.c:229:6:HAL_GPIO_EXTI_Callback	16	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/Source/T1S_STM32_Hardware.c:238:10:SPI_Cleanup	4	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/Source/T1S_STM32_Hardware.c:242:10:GetTick	8	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/Source/T1S_STM32_Hardware.c:246:10:SleepUntilISR	8	static

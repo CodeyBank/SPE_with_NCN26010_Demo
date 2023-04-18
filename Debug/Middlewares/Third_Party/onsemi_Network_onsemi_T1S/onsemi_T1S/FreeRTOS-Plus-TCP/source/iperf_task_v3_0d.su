@@ -1,0 +1,12 @@
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/include/FreeRTOS_IP.h:247:36:FreeRTOS_min_uint32	16	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/iperf_task_v3_0d.c:144:24:vListInsertFifo	16	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/iperf_task_v3_0d.c:217:6:vIPerfInstall	16	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/iperf_task_v3_0d.c:235:13:vIPerfServerWork	56	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/iperf_task_v3_0d.c:271:13:vIPerfTCPClose	32	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/iperf_task_v3_0d.c:310:12:vIPerfTCPSend	32	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/iperf_task_v3_0d.c:363:13:handleRecvPacket	280	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/iperf_task_v3_0d.c:602:13:vIPerfTCPWork	24	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/iperf_task_v3_0d.c:681:14:vIPerfUDPWork	40	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/iperf_task_v3_0d.c:738:18:xCreateTCPServerSocket	64	static,ignoring_inline_asm
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/iperf_task_v3_0d.c:781:18:xCreateUDPServerSocket	40	static,ignoring_inline_asm
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/iperf_task_v3_0d.c:815:6:vIPerfTask	56	static

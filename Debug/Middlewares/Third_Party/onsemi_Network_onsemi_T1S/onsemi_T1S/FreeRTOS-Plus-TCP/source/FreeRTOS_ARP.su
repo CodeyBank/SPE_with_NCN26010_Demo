@@ -1,0 +1,13 @@
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/include/FreeRTOS_IP_Private.h:211:23:vCastPointerTo_ARPPacket_t	16	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/include/FreeRTOS_IP_Private.h:230:23:vCastPointerTo_IPPacket_t	16	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_ARP.c:102:26:eARPProcessPacket	40	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_ARP.c:264:6:vARPRefreshCacheEntry	40	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_ARP.c:487:20:eARPGetCacheEntry	24	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_ARP.c:605:27:prvCacheLookup	24	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_ARP.c:647:6:vARPAgeCache	16	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_ARP.c:703:6:vARPSendGratuitous	8	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_ARP.c:721:6:FreeRTOS_OutputARPRequest	32	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_ARP.c:781:6:vARPGenerateRequestPacket	40	static,ignoring_inline_asm
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_ARP.c:858:6:FreeRTOS_ClearARP	8	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_ARP.c:878:16:xCheckLoopback	40	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_ARP.c:924:10:FreeRTOS_PrintARPCache	16	static

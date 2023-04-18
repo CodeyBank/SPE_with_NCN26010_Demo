@@ -1,0 +1,4 @@
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/include/FreeRTOS_IP_Private.h:266:23:vCastPointerTo_UDPPacket_t	16	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/include/FreeRTOS_IP_Private.h:270:23:vCastConstPointerTo_UDPPacket_t	16	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_UDP_IP.c:88:6:vProcessGeneratedUDPPacket	56	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/FreeRTOS_UDP_IP.c:286:12:xProcessReceivedUDPPacket	40	static,ignoring_inline_asm

@@ -1,0 +1,10 @@
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/BufferAllocation_1.c:152:24:bIsValidNetworkDescriptor	16	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/BufferAllocation_1.c:159:17:prvShowWarnings	4	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/BufferAllocation_1.c:166:12:xNetworkBuffersInitialise	24	static,ignoring_inline_asm
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/BufferAllocation_1.c:218:29:pxGetNetworkBufferWithDescriptor	32	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/BufferAllocation_1.c:306:29:pxNetworkBufferGetFromISR	40	static,ignoring_inline_asm
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/BufferAllocation_1.c:344:12:vNetworkBufferReleaseFromISR	40	static,ignoring_inline_asm
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/BufferAllocation_1.c:363:6:vReleaseNetworkBufferAndDescriptor	24	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/BufferAllocation_1.c:404:13:uxGetMinimumFreeNetworkBuffers	4	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/BufferAllocation_1.c:410:13:uxGetNumberOfFreeNetworkBuffers	4	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/FreeRTOS-Plus-TCP/source/BufferAllocation_1.c:415:29:pxResizeNetworkBufferWithDescriptor	16	static

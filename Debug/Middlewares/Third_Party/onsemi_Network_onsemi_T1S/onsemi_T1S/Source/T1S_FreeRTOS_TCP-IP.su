@@ -1,0 +1,3 @@
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/Source/T1S_FreeRTOS_TCP-IP.c:18:10:TCPIP_Init	4	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/Source/T1S_FreeRTOS_TCP-IP.c:22:10:TCPIP_Receive	40	static
+../Middlewares/Third_Party/onsemi_Network_onsemi_T1S/onsemi_T1S/Source/T1S_FreeRTOS_TCP-IP.c:63:10:TCPIP_PollCallback	16	static
